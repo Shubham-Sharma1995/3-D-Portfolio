@@ -131,7 +131,7 @@ import {
         "Created over 70+ elements, 100+ components, and pages with Bootstrap capabilities by utilizing Typescript and Bootstrap technologies",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "•	Maintained the functionality of a tenant login, tenant switching and user login with role-based module permissions for users",
+        "Maintained the functionality of a tenant login, tenant switching and user login with role-based module permissions for users",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
