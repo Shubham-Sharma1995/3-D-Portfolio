@@ -248,7 +248,7 @@ import {
     {
       name: "Chat Application",
       description:
-        "A comprehensive chat app with online statuses, great design and functinality, icons telling who read the message, image support, etc.",
+        "A comprehensive chat app with online status, great design and functinality, icons telling who read the message, image support, etc.",
       tags: [
         {
           name: "ReactJs",
