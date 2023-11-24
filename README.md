@@ -4,8 +4,6 @@ Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
 ![3d-portfolio](https://github.com/Shubham-Sharma1995/3-D-Portfolio/assets/112168652/02d7ed92-2ca1-48f9-b0bd-db2793c3d020)
 
 Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
-
 In this project, I have worked on the following:
 
 ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model<br>
