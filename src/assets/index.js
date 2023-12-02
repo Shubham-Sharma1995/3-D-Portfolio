@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import NLP from "./NLP.png";
 import sharMe from "./sharMe.png";
+import Threads from "./Threads.png"
 import teams_pic from "./teams_pic.png"
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -46,6 +47,7 @@ export {
   shubham,
   NLP,
   sharMe,
+  Threads,
   teams_pic,
   docker,
   figma,
